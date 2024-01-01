@@ -1,4 +1,4 @@
-# InspireMe App
+# Inspire App
 
 This project is a front-end app for the [inspireme-api](https://github.com/wesleybertipaglia/inspireme-api).
 
